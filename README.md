@@ -2,15 +2,11 @@
 
 A minimalist flip phone launcher for Android
 
-## Getting Started
+A Flutter launcher app that converts Android smartphones into minimal "flip phone" style devices.  
+Features:
+- Circular rotating app dial
+- Only essential apps: Phone, Messages, Camera, Clock, Settings
+- Custom background image
+- Works with real system icons
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
